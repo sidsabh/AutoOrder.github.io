@@ -313,9 +313,9 @@ input[type="reset"] {
 }
 .w-form-fail {
   display: none;
-  margin-top: 10px;
-  padding: 10px;
-  background-color: #ffdede;
+  padding: 20px;
+  text-align: center;
+  background-color: #dddddd;
 }
 label {
   display: block;
